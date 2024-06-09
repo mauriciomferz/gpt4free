@@ -17,3 +17,4 @@ retrying
 mailgw_temporary_email
 pycryptodome
 random-password-generator
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
